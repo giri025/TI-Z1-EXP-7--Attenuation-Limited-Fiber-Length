@@ -1,4 +1,4 @@
-
+## Giri R (212223060068)
 # Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
 
@@ -73,13 +73,25 @@ Your report should contain:
   - Course name and number  
   - Your name  
 
-- **Pre-lab Calculations**  
 
-- **Screenshots** of layout and results (including eye diagrams)  
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
+## Graph of 10GB
+- **Low Noise:**
+  <img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/2585a294-1c30-454e-9c22-53f741e0bd26" />
+- **High Noise:**
+  <img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/d275ec34-e2ba-46a8-981d-d0ef1687879e" />
+## Graph of 2.5 GB
+- **Low Noise:**
+  <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/56eb997f-9542-43e9-98cc-7b2e15ac026a" />
+- **High Noise:**
+  <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/2228ebce-4693-45cd-8b84-e9e4b5e21a0e" />
+
   
 
-- **Written Summary** of observations and explanations of differences.  
+
+## Tabulation: 
+<img width="978" height="1577" alt="image" src="https://github.com/user-attachments/assets/683cefb3-38a8-49ce-a185-4fc749188887" />
+
+
+## Result:
+thus the experiment was succesfully completed and output is verified
