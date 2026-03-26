@@ -73,25 +73,32 @@ Your report should contain:
   - Course name and number  
   - Your name  
 
+## Tabulation: 
+<img width="978" height="1577" alt="image" src="https://github.com/user-attachments/assets/683cefb3-38a8-49ce-a185-4fc749188887" />
+
+## Block Diagram
+
+### Attenuation-Limited Fiber Length 2.5GB
+
+<img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/8d891e89-9bcb-4909-bfdf-33b63c1a40ec" />
+
+### Attenuation-Limited Fiber Length 10GB
+
+<img width="708" height="374" alt="image" src="https://github.com/user-attachments/assets/76ae60f1-b3c1-43c2-8fd1-da9feeb9c21e" />
 
 
-## Graph of 10GB
+
+## OUTPUT of 10GB
 - **Low Noise:**
   <img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/2585a294-1c30-454e-9c22-53f741e0bd26" />
 - **High Noise:**
   <img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/d275ec34-e2ba-46a8-981d-d0ef1687879e" />
-## Graph of 2.5 GB
+## OUTPUT of 2.5 GB
 - **Low Noise:**
   <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/56eb997f-9542-43e9-98cc-7b2e15ac026a" />
 - **High Noise:**
   <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/2228ebce-4693-45cd-8b84-e9e4b5e21a0e" />
 
   
-
-
-## Tabulation: 
-<img width="978" height="1577" alt="image" src="https://github.com/user-attachments/assets/683cefb3-38a8-49ce-a185-4fc749188887" />
-
-
 ## Result:
 thus the experiment was succesfully completed and output is verified
